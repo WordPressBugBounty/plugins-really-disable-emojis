@@ -1,0 +1,1 @@
+# plugins-really-disable-emojis
